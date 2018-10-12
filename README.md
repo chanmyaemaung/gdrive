@@ -4,7 +4,7 @@
 `GDrive Direct Link` - Share Direct Links to Files in Google Drive and Skip the Web Viewer
 
 <p align="center">
-  <img width="800" height="600" src="/root/image/demo.png">
+  <img width="800" height="600" src="/root/image/demo.jpg">
 </p>
 
 ## ရည္ရြယ္ခ်က္
