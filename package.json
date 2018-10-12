@@ -1,0 +1,15 @@
+{
+  "name": "gdrive",
+  "version": "1.0.0",
+  "description": "Google Drive Direct Link Generator by iT Guider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GDrive",
+    "Direct-link-generator"
+  ],
+  "author": "Chan Lay (Mr.Wire)",
+  "license": "ISC"
+}
